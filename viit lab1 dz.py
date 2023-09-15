@@ -11,6 +11,7 @@ b = float(input('Введите переменную b: '))
 c = float(input('Введите переменную c: '))
 s = float(input('Введите переменную s: '))
 
+
 if s > 0:
   c = c - s
   s = s - s
